@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\obj\x64\Debug\Mean_Filter_Enhance.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\obj\x64\Debug\Mean_Filter_Enhance.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\軟工\ContraHarmonic_Enhance_C#\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
